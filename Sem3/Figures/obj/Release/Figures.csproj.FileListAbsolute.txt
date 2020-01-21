@@ -1,0 +1,5 @@
+C:\Users\андрей\Desktop\cursond\Sem3\Figures\bin\Release\Figures.dll
+C:\Users\андрей\Desktop\cursond\Sem3\Figures\bin\Release\Figures.pdb
+C:\Users\андрей\Desktop\cursond\Sem3\Figures\obj\Release\ResolveAssemblyReference.cache
+C:\Users\андрей\Desktop\cursond\Sem3\Figures\obj\Release\Figures.dll
+C:\Users\андрей\Desktop\cursond\Sem3\Figures\obj\Release\Figures.pdb

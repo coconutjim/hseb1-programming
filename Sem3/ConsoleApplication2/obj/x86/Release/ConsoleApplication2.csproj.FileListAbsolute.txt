@@ -1,0 +1,7 @@
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication2\bin\Release\ConsoleApplication2.exe
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication2\bin\Release\ConsoleApplication2.pdb
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication2\bin\Release\Figures.dll
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication2\bin\Release\Figures.pdb
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.exe
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication2\obj\x86\Release\ConsoleApplication2.pdb

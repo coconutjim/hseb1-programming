@@ -1,0 +1,5 @@
+C:\Users\андрей\Desktop\cursond\sem4\CL1\bin\Release\CL1.dll
+C:\Users\андрей\Desktop\cursond\sem4\CL1\bin\Release\CL1.pdb
+C:\Users\андрей\Desktop\cursond\sem4\CL1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\андрей\Desktop\cursond\sem4\CL1\obj\Release\CL1.dll
+C:\Users\андрей\Desktop\cursond\sem4\CL1\obj\Release\CL1.pdb

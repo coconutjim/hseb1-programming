@@ -1,0 +1,7 @@
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication1\bin\Release\Lib.dll
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication1\bin\Release\Lib.pdb
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.exe
+C:\Users\андрей\Desktop\cursond\Sem3\ConsoleApplication1\obj\x86\Release\ConsoleApplication1.pdb

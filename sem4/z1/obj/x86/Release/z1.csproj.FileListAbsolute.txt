@@ -1,0 +1,7 @@
+C:\Users\андрей\Desktop\cursond\sem4\z1\bin\Release\z1.exe
+C:\Users\андрей\Desktop\cursond\sem4\z1\bin\Release\z1.pdb
+C:\Users\андрей\Desktop\cursond\sem4\z1\bin\Release\CL1.dll
+C:\Users\андрей\Desktop\cursond\sem4\z1\bin\Release\CL1.pdb
+C:\Users\андрей\Desktop\cursond\sem4\z1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\андрей\Desktop\cursond\sem4\z1\obj\x86\Release\z1.exe
+C:\Users\андрей\Desktop\cursond\sem4\z1\obj\x86\Release\z1.pdb
